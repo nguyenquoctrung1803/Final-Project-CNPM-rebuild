@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PM_BanLinhKienPCModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CodeCus" />
+    </Key>
+    <Property Name="IDCus" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CodeCus" Type="Int32" Nullable="false" />
+    <Property Name="Email_Cus" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Address_Cus" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Phone_Cus" Type="Int32" />
+    <NavigationProperty Name="Orders" Relationship="Self.FK__Orders__CodeCus__5812160E" FromRole="Customer" ToRole="Orders" />
+  </EntityType>
+  <EntityType Name="LinhKien">
+    <Key>
+      <PropertyRef Name="MaLK" />
+    </Key>
+    <Property Name="MaLK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaLLK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaNCC" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TenLK" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="BaoHanh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="XuatXu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TinhTrang" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DonViTinh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DonGia" Type="Int32" />
+    <Property Name="SoLuongTon" Type="Int32" Nullable="false" />
+    <Property Name="KhuyenMai" Type="Int32" />
+    <Property Name="HinhAnh" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="TrangThai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="OrderDetails" Relationship="Self.FK__OrderDetai__MaLK__5AEE82B9" FromRole="LinhKien" ToRole="OrderDetail" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="IDOrder" />
+    </Key>
+    <Property Name="IDOrder" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderDate" Type="DateTime" Precision="0" />
+    <Property Name="CodeCus" Type="Int32" />
+    <Property Name="Descriptions" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Customer" Relationship="Self.FK__Orders__CodeCus__5812160E" FromRole="Orders" ToRole="Customer" />
+    <NavigationProperty Name="OrderDetails" Relationship="Self.FK__OrderDeta__IDOrd__59FA5E80" FromRole="Orders" ToRole="OrderDetail" />
+  </EntityType>
+  <EntityType Name="OrderDetail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDOrder" Type="Int32" />
+    <Property Name="MaLK" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UnitPriceSale" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Quantity" Type="Int32" />
+    <NavigationProperty Name="LinhKien" Relationship="Self.FK__OrderDetai__MaLK__5AEE82B9" FromRole="OrderDetail" ToRole="LinhKien" />
+    <NavigationProperty Name="Order" Relationship="Self.FK__OrderDeta__IDOrd__59FA5E80" FromRole="OrderDetail" ToRole="Orders" />
+  </EntityType>
+  <Association Name="FK__Orders__CodeCus__5812160E">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="Orders" Type="Self.Order" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CodeCus" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="CodeCus" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OrderDetai__MaLK__5AEE82B9">
+    <End Role="LinhKien" Type="Self.LinhKien" Multiplicity="0..1" />
+    <End Role="OrderDetail" Type="Self.OrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LinhKien">
+        <PropertyRef Name="MaLK" />
+      </Principal>
+      <Dependent Role="OrderDetail">
+        <PropertyRef Name="MaLK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OrderDeta__IDOrd__59FA5E80">
+    <End Role="Orders" Type="Self.Order" Multiplicity="0..1" />
+    <End Role="OrderDetail" Type="Self.OrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="IDOrder" />
+      </Principal>
+      <Dependent Role="OrderDetail">
+        <PropertyRef Name="IDOrder" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PM_BanLinhKienPCEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="Self.Customer" />
+    <EntitySet Name="LinhKiens" EntityType="Self.LinhKien" />
+    <EntitySet Name="Orders" EntityType="Self.Order" />
+    <EntitySet Name="OrderDetails" EntityType="Self.OrderDetail" />
+    <AssociationSet Name="FK__Orders__CodeCus__5812160E" Association="Self.FK__Orders__CodeCus__5812160E">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OrderDetai__MaLK__5AEE82B9" Association="Self.FK__OrderDetai__MaLK__5AEE82B9">
+      <End Role="LinhKien" EntitySet="LinhKiens" />
+      <End Role="OrderDetail" EntitySet="OrderDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OrderDeta__IDOrd__59FA5E80" Association="Self.FK__OrderDeta__IDOrd__59FA5E80">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="OrderDetail" EntitySet="OrderDetails" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

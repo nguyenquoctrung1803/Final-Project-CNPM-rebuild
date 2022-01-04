@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PM_BanLinhKienPCModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CodeCus" />
+    </Key>
+    <Property Name="IDCus" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CodeCus" Type="int" Nullable="false" />
+    <Property Name="Email_Cus" Type="nvarchar" MaxLength="50" />
+    <Property Name="Address_Cus" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone_Cus" Type="int" />
+  </EntityType>
+  <EntityType Name="LinhKien">
+    <Key>
+      <PropertyRef Name="MaLK" />
+    </Key>
+    <Property Name="MaLK" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MaLLK" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MaNCC" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="TenLK" Type="nvarchar(max)" />
+    <Property Name="BaoHanh" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="XuatXu" Type="nvarchar" MaxLength="50" />
+    <Property Name="TinhTrang" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DonViTinh" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DonGia" Type="int" />
+    <Property Name="SoLuongTon" Type="int" Nullable="false" />
+    <Property Name="KhuyenMai" Type="int" />
+    <Property Name="HinhAnh" Type="nvarchar(max)" />
+    <Property Name="TrangThai" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'PM_BanLinhKienPC.dbo.OrderDetail' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="OrderDetail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDOrder" Type="int" />
+    <Property Name="MaLK" Type="nvarchar" MaxLength="50" />
+    <Property Name="UnitPriceSale" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="Quantity" Type="int" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="IDOrder" />
+    </Key>
+    <Property Name="IDOrder" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OrderDate" Type="date" />
+    <Property Name="CodeCus" Type="int" />
+    <Property Name="Descriptions" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK__OrderDeta__IDOrd__59FA5E80">
+    <End Role="Orders" Type="Self.Orders" Multiplicity="0..1" />
+    <End Role="OrderDetail" Type="Self.OrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="IDOrder" />
+      </Principal>
+      <Dependent Role="OrderDetail">
+        <PropertyRef Name="IDOrder" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OrderDetai__MaLK__5AEE82B9">
+    <End Role="LinhKien" Type="Self.LinhKien" Multiplicity="0..1" />
+    <End Role="OrderDetail" Type="Self.OrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LinhKien">
+        <PropertyRef Name="MaLK" />
+      </Principal>
+      <Dependent Role="OrderDetail">
+        <PropertyRef Name="MaLK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Orders__CodeCus__5812160E">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CodeCus" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="CodeCus" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PM_BanLinhKienPCModelStoreContainer">
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LinhKien" EntityType="Self.LinhKien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Orders" EntityType="Self.Orders" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderDetail" EntityType="Self.OrderDetail" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [OrderDetail].[ID] AS [ID], 
+    [OrderDetail].[IDOrder] AS [IDOrder], 
+    [OrderDetail].[MaLK] AS [MaLK], 
+    [OrderDetail].[UnitPriceSale] AS [UnitPriceSale], 
+    [OrderDetail].[Quantity] AS [Quantity]
+    FROM [dbo].[OrderDetail] AS [OrderDetail]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__OrderDeta__IDOrd__59FA5E80" Association="Self.FK__OrderDeta__IDOrd__59FA5E80">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="OrderDetail" EntitySet="OrderDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OrderDetai__MaLK__5AEE82B9" Association="Self.FK__OrderDetai__MaLK__5AEE82B9">
+      <End Role="LinhKien" EntitySet="LinhKien" />
+      <End Role="OrderDetail" EntitySet="OrderDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Orders__CodeCus__5812160E" Association="Self.FK__Orders__CodeCus__5812160E">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

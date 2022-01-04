@@ -1,0 +1,55 @@
+C:\Users\Admin\Desktop\Final Project\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\Final Project\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\Final Project\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Final Project\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Final Project\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Final Project\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Final Project\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Final Project\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final Project\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\Final Project\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\Final Project\BUS\obj\Debug\BUS.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\bin\Debug\BUS.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\bin\Debug\BUS.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\bin\Debug\DAL.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\bin\Debug\DTO.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\bin\Debug\DAL.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\bin\Debug\DTO.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\obj\Debug\BUS.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\BUS\obj\Debug\BUS.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\bin\Debug\BUS.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\bin\Debug\BUS.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\bin\Debug\DAL.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\bin\Debug\DTO.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\bin\Debug\DAL.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\bin\Debug\DTO.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\obj\Debug\BUS.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\BUS\obj\Debug\BUS.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\bin\Debug\BUS.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\bin\Debug\BUS.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\bin\Debug\DAL.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\bin\Debug\DTO.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\bin\Debug\DAL.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\bin\Debug\DTO.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\obj\Debug\BUS.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\BUS\obj\Debug\BUS.pdb

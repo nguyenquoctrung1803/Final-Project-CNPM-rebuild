@@ -1,0 +1,45 @@
+C:\Users\Admin\Desktop\Final Project\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Final Project\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Final Project\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Final Project\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Final Project\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Final Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\Final Project\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\Final Project\DAL\obj\Debug\DAL.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\DAL\bin\Debug\DAL.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\DAL\bin\Debug\DAL.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\DAL\bin\Debug\DTO.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\DAL\bin\Debug\DTO.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\DAL\obj\Debug\DAL.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\DAL\obj\Debug\DAL.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\DAL\bin\Debug\DAL.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\DAL\bin\Debug\DAL.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\DAL\bin\Debug\DTO.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\DAL\bin\Debug\DTO.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Program Files\Final-Project-CNPM-rebuild-main\DAL\obj\Debug\DAL.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\DAL\obj\Debug\DAL.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\DAL\bin\Debug\DAL.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\DAL\bin\Debug\DAL.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\DAL\bin\Debug\DTO.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\DAL\bin\Debug\DTO.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main2\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Program Files\Final-Project-CNPM-rebuild-main2\DAL\obj\Debug\DAL.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\DAL\obj\Debug\DAL.pdb

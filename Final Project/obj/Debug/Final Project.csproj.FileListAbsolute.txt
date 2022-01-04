@@ -1,0 +1,251 @@
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final_Project.Login.resources
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final_Project.Frm_LaylaiPass.resources
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final_Project.Frm_TaoTaiKhoan.resources
+C:\Users\Admin\Desktop\Final Project\Final Project\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\Final Project.exe
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\BUS.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\DTO.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\MetroFramework.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\DAL.dll
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\BUS.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\DTO.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\bin\Debug\DAL.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final_Project.Frm_LaylaiPass.resources
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final_Project.Frm_TaoTaiKhoan.resources
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final_Project.Login.resources
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final Project.exe
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Quoc Trung\source\repos\Final-Project-CNPM\Final-Project-CNPM-0f7a3b321c9e8466395df82df10f606f846e78a9\Final Project\obj\Debug\Final_Project.Frm_NhanVien.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Final Project.exe
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\BUS.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\MetroFramework.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\BUS.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_LaylaiPass.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_NhanVien.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_TaoTaiKhoan.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_ThongTinNhanVien.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Login.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final Project.exe
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final Project.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\Final Project.exe.config
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\Final Project.exe
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\Final Project.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\BUS.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\DTO.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\MetroFramework.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\DAL.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\BUS.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\DTO.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\bin\Debug\DAL.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final_Project.Form1.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final_Project.Frm_LaylaiPass.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final_Project.Frm_NhanVien.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final_Project.Frm_TaoTaiKhoan.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final_Project.Frm_ThongTinNhanVien.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final_Project.Login.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final Project.exe
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final Project.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main\Final Project\obj\Debug\Final_Project.Frm_ThongKe.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\EnvDTE.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\stdole.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_HoaDonNhap.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_PrintHD.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_ThongKe.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\RdlCompile.cache
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\RdlCompile.compiled
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Final Project.exe.config
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Final Project.exe
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Final Project.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\BUS.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\DTO.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\MetroFramework.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\DAL.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\EnvDTE.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\stdole.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\Microsoft.MSXML.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\BUS.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\DTO.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\DAL.pdb
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Form1.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_HoaDonNhap.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_LaylaiPass.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_NhanVien.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_PrintHD.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_TaoTaiKhoan.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_ThongKe.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_ThongTinNhanVien.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Login.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final Project.exe
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final Project.pdb
+=======
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_ChucVu.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_KH.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_HoaDonBanHang.resources
+C:\Users\Admin\source\repos\repos\Final Project Rebuild\Final Project\obj\Debug\Final_Project.Frm_BanHan.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_BanHan.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_ChucVu.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_HoaDonBanHang.resources
+E:\Program Files\Final-Project-CNPM-rebuild-main2\Final Project\obj\Debug\Final_Project.Frm_KH.resources
