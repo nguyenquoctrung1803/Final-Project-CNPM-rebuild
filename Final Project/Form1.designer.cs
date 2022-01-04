@@ -44,7 +44,6 @@
             this.btnPhanQuyen = new System.Windows.Forms.Button();
             this.btnThongKe = new System.Windows.Forms.Button();
             this.btnBanHang = new System.Windows.Forms.Button();
-            this.btnExit = new System.Windows.Forms.Button();
             this.btnPhieuNhap = new System.Windows.Forms.Button();
             this.btnHoaDon = new System.Windows.Forms.Button();
             this.btnKhachHang = new System.Windows.Forms.Button();
@@ -83,10 +82,11 @@
             // 
             // labeldateTime
             // 
-            this.labeldateTime.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.labeldateTime.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.labeldateTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labeldateTime.ForeColor = System.Drawing.Color.White;
-            this.labeldateTime.Location = new System.Drawing.Point(470, 6);
+            this.labeldateTime.ForeColor = System.Drawing.Color.Black;
+            this.labeldateTime.Location = new System.Drawing.Point(6, 5);
             this.labeldateTime.Name = "labeldateTime";
             this.labeldateTime.Size = new System.Drawing.Size(317, 33);
             this.labeldateTime.TabIndex = 1;
@@ -164,7 +164,6 @@
             this.panelSideMenu.Controls.Add(this.btnPhanQuyen);
             this.panelSideMenu.Controls.Add(this.btnThongKe);
             this.panelSideMenu.Controls.Add(this.btnBanHang);
-            this.panelSideMenu.Controls.Add(this.btnExit);
             this.panelSideMenu.Controls.Add(this.btnPhieuNhap);
             this.panelSideMenu.Controls.Add(this.btnHoaDon);
             this.panelSideMenu.Controls.Add(this.btnKhachHang);
@@ -255,25 +254,6 @@
             this.btnBanHang.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnBanHang.UseVisualStyleBackColor = false;
             this.btnBanHang.Click += new System.EventHandler(this.btnBanHang_Click);
-            // 
-            // btnExit
-            // 
-            this.btnExit.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.btnExit.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.btnExit.FlatAppearance.BorderSize = 0;
-            this.btnExit.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.btnExit.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Teal;
-            this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnExit.ForeColor = System.Drawing.Color.Silver;
-            this.btnExit.Image = ((System.Drawing.Image)(resources.GetObject("btnExit.Image")));
-            this.btnExit.Location = new System.Drawing.Point(0, 542);
-            this.btnExit.Name = "btnExit";
-            this.btnExit.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
-            this.btnExit.Size = new System.Drawing.Size(229, 45);
-            this.btnExit.TabIndex = 12;
-            this.btnExit.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnExit.UseVisualStyleBackColor = false;
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // btnPhieuNhap
             // 
@@ -407,7 +387,6 @@
 
 
         private System.Windows.Forms.Panel panelLogo;
-        private System.Windows.Forms.Button btnExit;
         private System.Windows.Forms.Button btnLogout;
         public System.Windows.Forms.Panel panelTop;
         public System.Windows.Forms.Label labelHienThiTenDangNhap;
