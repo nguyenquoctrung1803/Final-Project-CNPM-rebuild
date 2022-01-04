@@ -171,6 +171,7 @@ namespace Final_Project
         private void Form1_Load(object sender, EventArgs e)
         {
             lbl_HienThiForm.Text = "Trang Chủ";
+            lbl_HienThiForm.ForeColor = Color.White;
             //Login frmDN = new Login();
             //frmDN.ShowDialog();
             //if (Login.IsClose) this.Close();
